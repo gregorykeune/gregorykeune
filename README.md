@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Gregory&textBg=false&fontColor=FFFFFF" >
+</div>
 
-<!--
-**gregorykeune/gregorykeune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align=center>🏆 GitHub Stats 📈</h2>
 
-Here are some ideas to get you started:
+<div align="center">
+  <p align="center">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregorykeune&layout=compact&theme=dark&title_color=FFC20E&text_color=27C5FF&bg_color=000000&border_radius=3&border_color=FFC20E&cache_seconds=60" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gregorykeune&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=FFC20E&text_color=27C5FF&bg_color=000000&border_radius=3&border_color=FFC20E&icon_color=FFC20E" />
+  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=gregorykeune&theme=buddhism&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
