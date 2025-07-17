@@ -1,8 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Gregory&textBg=false&fontColor=FFFFFF" >
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome&textBg=false&fontColor=FFFFFF" >
 </div>
 
-<h2 align=center>🏆 GitHub Stats 📈</h2>
+<p>Hello! I am a fourth-semester undergraduate Computer Science student at PUCPR (Pontifícia Universidade Católica do Paraná). I am currently looking to gain experience in my field and learn new technologies. For more information, feel free to check out my portfolio.</p>
+
+##
+
+<div align="center">
+
+<h3>📂 My Portfolio 📂</h3>
+
+<a href="https://www.linkedin.com/in/gregory-keune-rodrigues-691028330/" target="_blank" rel="nofollow">
+  🔗 Click Here!
+</a>
+
+##
+
+<h3 align=center>🏆 GitHub Stats 📈</h3>
 
 <div align="center">
   <p align="center">
