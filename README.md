@@ -10,7 +10,7 @@
 
 <h3>📂 My Portfolio 📂</h3>
 
-<a href="https://www.linkedin.com/in/gregory-keune-rodrigues-691028330/" target="_blank" rel="nofollow">
+<a href="https://portfolio-gregorykeune.netlify.app/" target="_blank" rel="nofollow">
   🔗 Click Here!
 </a>
 
