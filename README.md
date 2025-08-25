@@ -20,8 +20,8 @@
 
 <div align="center">
   <p align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregorykeune&layout=compact&theme=dark&title_color=FFC20E&text_color=27C5FF&bg_color=000000&border_radius=3&border_color=FFC20E&cache_seconds=60&v=1" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gregorykeune&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=FFC20E&text_color=27C5FF&bg_color=000000&border_radius=3&border_color=FFC20E&icon_color=FFC20E&v=1" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregorykeune&layout=compact&theme=dark&title_color=FFC20E&text_color=27C5FF&bg_color=000000&border_radius=3&border_color=FFC20E&cache_seconds=60" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gregorykeune&count_private=true&show_icons=true&theme=dark&cache_seconds=30&title_color=FFC20E&text_color=27C5FF&bg_color=000000&border_radius=3&border_color=FFC20E&icon_color=FFC20E" />
   </p>
   <img src="https://github-profile-trophy.vercel.app/?username=gregorykeune&theme=buddhism&no-frame=false&no-bg=false&margin-w=4" />
 </div>
